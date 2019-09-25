@@ -11,3 +11,11 @@ Specify **Go import path** as the argument.
 ```
 $ genpkgbuild-go github.com/golang/lint/golint
 ```
+
+## Installation
+
+Install from AUR.
+
+```
+$ yay genpkgbuild-go
+```
