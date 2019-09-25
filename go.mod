@@ -1,6 +1,6 @@
 module github.com/acomagu/genpkgbuild-go
 
-go 1.12
+go 1.13
 
 require (
 	github.com/mattn/go-colorable v0.1.2 // indirect
